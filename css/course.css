@@ -1,0 +1,49 @@
+.coursesimg{
+    position: absolute;
+    width: 450px;
+    height: 200px;
+    right: 120px;
+     margin-top: 10px;
+}
+    .learn{
+        border-radius: 8px;
+        width: 150px;
+        height: 42px;
+    position: absolute;
+    background-color:#0088cc;
+    color: white;
+    margin-top: -32px;
+}
+.signin{
+    position: fixed;
+    width: 150px;
+    height: 37px;
+    right: 300px;
+}
+
+.vertical-menu {
+  width: 350px;
+    
+}
+
+.vertical-menu a {
+  background-color: #dcdcdc;
+  color: black;
+  display: block;
+  padding: 18px;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover {
+  background-color:#005580 ;
+}
+
+.vertical-menu a.active {
+  background-color: #0088cc;
+  color: white;
+}
+.video{
+    position: absolute;
+    right: 120px;
+    top: 350px;
+}
